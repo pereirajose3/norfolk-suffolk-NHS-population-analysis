@@ -7,11 +7,10 @@ Analyzing NHS patient and population trends across Norfolk and Suffolk, UK.
 This project examines demographic and healthcare-related population data in the Norfolk & Suffolk region. It includes analysis of:
 
 - Resident population estimates over time (mid-year data)
-- Age-group trends, with focus on older age brackets
-- NHS-related outcomes and demand indicators
-- Regional differences in health, care use, and demography
+- Age-group trends
+- Demography Regional differences
 
-The goal is to support healthcare planning and strategy optimization within the Integrated Care Board (ICB) area.
+The aim is to support healthcare planning and strategic decision-making within the Integrated Care Board (ICB) area by providing demographic estimates and projections.
 
 ## Objectives
 
@@ -22,9 +21,9 @@ The goal is to support healthcare planning and strategy optimization within the 
 
 ## Tools & Data Sources
 
-- **Language:** Python (with pandas, numpy, matplotlib, seaborn, geopandas)
-- **Data files:** NHS/O​NS mid-year population estimates; strategic reports (e.g. Norfolk & Waveney JSNA); NHS discharge and service usage data
-- **Geospatial data:** shapefiles/E­nhanced Local Authority Boundaries for Norfolk & Suffolk
+- **Language:** SQL and Python (with pandas, numpy, matplotlib, seaborn)
+- **Data Sources:** NHS/O​NS mid-year population estimates and projections
+- **Notebooks:** Jupyter Notebooks covering data collection, cleaning, and analysis.
 
-## Repository Structure
+
 
