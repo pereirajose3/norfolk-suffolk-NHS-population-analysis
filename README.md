@@ -17,17 +17,17 @@ Figure 1: Population Estimates and Projections for Norfolk and Waveney Local Aut
 
 ## 2.2.	An ageing population
 The population of Norfolk and Waveney ICB is also ageing. Figure 2 shows the population pyramid with 2025 and 2035 ONS projections. These projections indicate that the population is expected to grow most pronounced in the 65+ age groups, while the population aged 20 and under is expected to remain stable or decline. In 2025, estimates indicate that there are around 240,000 people aged 65 or over. According to the projections, this number is expected to increase to 288,000 by 2035.
-
+<br>
 <img width="4728" height="2685" alt="population_projections_2025_vs_2035_outlined" src="https://github.com/user-attachments/assets/9b8ef5ca-cc44-40be-b6d8-caedf5ffe9ab" />
 Figure 2: Population Projections for Norfolk and Waveney Local Authorities (2025–2043)
 
 The population is expected to rise in all age groups over 65, but the 75-84 age group will see the largest increase. ONS estimates indicate that there were about 71,000 people aged 75-84 in 2018, rising to 89,000 in 2024, and this number is projected to increase to 121,000 in 2043. These age trends are shown in Figure 3.
-
+<br>
 <img width="4717" height="2416" alt="population_older_agegroups_AfCstyle" src="https://github.com/user-attachments/assets/39eafd0f-1a5c-462e-8b6d-2d78c0591d75" />
 Figure 3: Population Estimates and Projections for Older Age Groups (65+) in Norfolk and Waveney ICB (2018–2043)
 
 The old-age dependency ratio will increase significantly in the Norfolk and Waveney ICB. This ratio measures how many older dependents (people over 64) there are for every 100 people in the working age. The ratio was 41% in 2024, meaning there were approximately 41 old dependents for every 100 working-age people. The ratio is projected to be 51% in 2043. If we also take into consideration the youth dependency ratio, combining both dependency ratios, in 2043 the dependency ratio is projected to be 74%. This means there will be approximately 74 dependents (people under 15 or over 64) for every 100 working age people. These ratio trends are shown in Figure 4.
-
+<br>
 <img width="4718" height="2414" alt="ratio_of_dependent_population" src="https://github.com/user-attachments/assets/6e9e7419-0df9-4d52-a1e3-9412354861ec" />
 Figure 4: Youth and Old-age Dependency Ratios in Norfolk and Waveney ICB (2018–2043)
 
