@@ -12,6 +12,7 @@ Based on the findings of this report, several next steps should be considered. F
 The population of Norfolk and Waveney ICB experienced steady growth between 2018 and 2024, and this trend is expected to continue in the coming years. The Office for National Statistics (ONS) estimates that the population belonging to the Norfolk and Waveney ICB was 904,000 in 2018 and 942,000 in 2024. According to ONS population projections, the population is expected to reach 1.056 million in 2043 (Figure 1). 
  
 <img width="4719" height="2416" alt="total_population_lineplot" src="https://github.com/user-attachments/assets/c09690a8-aeea-4562-9d42-96aa81d79583" />
+Figure 1: Population Estimates and Projections for Norfolk and Waveney Local Authorities (2018–2043)<img width="468" height="46" alt="image" src="https://github.com/user-attachments/assets/b8ff80a4-a4bc-47e7-a104-9b3c71e1226c" />
 
 
 ## 2.2.	An ageing population
